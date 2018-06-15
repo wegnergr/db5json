@@ -1,0 +1,15 @@
+{
+  "firstName": "Greg",
+  "lastName": "Wegner",
+  "preferredName": "Greg",
+  "email": "wegnergr@lewisu.edu",
+  "phoneNumber": "815-263-7957",
+  "city": "Plainfield",
+  "state": "IL",
+  "zip": "60544",
+  "lat": "41.63",
+  "lng": "-88.21",
+  "favoriteHobby": "Bicycling",
+  "favoriteSport": "Golf",
+  "favoritHobbyWhy": "Fun"
+}
